@@ -1,1 +1,1 @@
-# email-tracker
+# Email Tracker Project
