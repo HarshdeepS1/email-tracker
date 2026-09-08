@@ -118,7 +118,7 @@ def main(resume=False, last_n=1):   # default main() fetches most recent email
         status, msg_data = mail.fetch(last_couple, "(RFC822)") # RFC822 = macro for retrieve the whole message
 
     """LEFT OFF HERE 10/10 FINISH ABOVE"""
-        """I have the logic for if the user wants to resume from last UID or fetch the last N emails"""
+    """I have the logic for if the user wants to resume from last UID or fetch the last N emails"""
 
 
     file = open("output.txt", "w") 
